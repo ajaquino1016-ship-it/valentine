@@ -24,9 +24,9 @@ export default function ValentinePage() {
       <main className="flex min-h-screen flex-col items-center justify-center bg-black overflow-hidden px-4">
         <div className="text-center animate-bounce">
           <h1 className="text-6xl md:text-8xl font-bold text-white drop-shadow-[0_0_35px_rgba(255,0,0,0.9)]">
-            kantot ka sakin ❤️
+            Yay! See you! ❤️
           </h1>
-          <p className="mt-6 text-xl text-red-400 font-medium tracking-widest">Pound town</p>
+          <p className="mt-6 text-xl text-red-400 font-medium tracking-widest">THANK YOUU!! </p>
         </div>
       </main>
     );
@@ -40,7 +40,7 @@ export default function ValentinePage() {
       <div className="z-10 flex flex-col items-center gap-12 text-center max-w-2xl">
         {/* White to Red Gradient Text */}
         <h1 className="bg-gradient-to-b from-white via-red-200 to-red-600 bg-clip-text text-transparent text-6xl md:text-8xl font-bold tracking-tighter leading-tight drop-shadow-2xl">
-          Mag sogo na tayo
+          Will you be my Valentine?
         </h1>
 
         <div className="flex items-center justify-center gap-6 min-h-[100px]">
